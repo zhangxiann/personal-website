@@ -23,29 +23,93 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/HZK4EAV6MSG7
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-10-01"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: 'DeepLearning.AI TensorFlow Developer Specialization'
+- certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/957PWWZ7VA3X
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2019-04-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Deep Learning Specialization'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/ZHQQGPG6M2HF
+  date_end: ""
+  date_start: "2019-10-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Sequences, Time Series and Prediction'
+
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/EANKP9SQQHWB
+  date_end: ""
+  date_start: "2019-02-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Machine Learning'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/BB9A28VY55N4
+  date_end: ""
+  date_start: "2019-05-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/LY6DRU9X9FXT
+  date_end: ""
+  date_start: "2019-04-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Sequence Models'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/K3Q4TNWXSDHU
+  date_end: ""
+  date_start: "2019-08-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/M3VM6ST4FZ3G
+  date_end: ""
+  date_start: "2019-08-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Convolutional Neural Networks in TensorFlow'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/X6VPXA4X8KKM
+  date_end: ""
+  date_start: "2019-09-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Convolutional Neural Networks'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/XZ2KFF5GEUDW
+  date_end: ""
+  date_start: "2019-09-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Natural Language Processing in TensorFlow'
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/3WVHMTDFHEQ8
+  date_end: ""
+  date_start: "2019-02-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Neural Networks and Deep Learning'
+  url: ""
+  url: ""
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/5J44RKEQHMBD
+  date_end: ""
+  date_start: "2019-04-01"
+  description: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: 'Structuring Machine Learning Projects'
   url: ""
 
 design:
