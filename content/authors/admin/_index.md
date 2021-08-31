@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I'm now a postgraduate student in Software Engineering at Harbin Engineering University.
+I'm I am a master student at Harbin Engineering University with a major in Software Engineering.
 
 My research interests include computer vision, natural language processing, deep learning, and event stream. Currently, I am focusing on combination of deep learning and event streams.
 
