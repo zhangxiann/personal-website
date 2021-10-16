@@ -74,4 +74,4 @@ Prior to HEU,  I received the B.Eng degree in Software Engineering from Nanchang
 
 My research interests include Computer Vision, Natural Language Processing, Deep Learning, Intenet of Things, and event stream. Currently, I am focusing on event-based vision.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xian Zhang_HEU.md" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xian-Zhang_HEU.md" "newtab" >}}resumé{{< /staticref >}}.
