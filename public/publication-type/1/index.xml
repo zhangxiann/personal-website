@@ -5,7 +5,7 @@
     <link>https://zhangxiann.com/publication-type/1/</link>
       <atom:link href="https://zhangxiann.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhangxiann.com/media/icon_huf18bd0ad446ecd3b744c8f36f1d256d2_690417_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,51 @@
     </image>
     
     <item>
+      <title> Event-Based American Sign Language Recognition Using Dynamic Vision Sensor</title>
+      <link>https://zhangxiann.com/publication/event-based-american-sign-language-recognition-using-dynamic-vision-sensor/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhangxiann.com/publication/event-based-american-sign-language-recognition-using-dynamic-vision-sensor/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the *Slides* button to check out the example.--&gt;
+&lt;!--
+  &lt;/div&gt;
+&lt;/div&gt;
+--&gt;
+&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;</description>
+    </item>
+    
+    <item>
       <title> Event-Stream Representation for Human Gaits Identification Using Deep Neural Networks</title>
       <link>https://zhangxiann.com/publication/event-stream-representation-for-human-gaits-identification-using-deep-neural-networks/</link>
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://zhangxiann.com/publication/event-stream-representation-for-human-gaits-identification-using-deep-neural-networks/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.--&gt;
+&lt;!--
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
+--&gt;
+&lt;!--&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+    &amp;ndash;&amp;gt;&lt;/p&gt;
+&lt;!--Create your slides in Markdown - click the *Slides* button to check out the example.--&gt;
+&lt;!--
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+--&gt;
+&lt;!--Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).--&gt;</description>
     </item>
     
   </channel>

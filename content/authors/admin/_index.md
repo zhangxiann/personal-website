@@ -17,18 +17,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Computer Vision
+- Resource-efficient Deep Learning
 - Natural Language Processing
+- Intenet of Things
 - Deep Learning
-- Event Stream
+- Event Stream Based Computer Vision
 
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Software Engineering
+  - course: M.Eng. in Software Engineering
     institution: Harbin Engineering University
     year: 2022
-  - course: BSc in Software Engineering
+  - course: B.Eng. in Software Engineering
     institution: Nanchang University
     year: 2017
 
@@ -61,14 +62,16 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhangxian_tech@163.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I'm I am a master student at Harbin Engineering University with a major in Software Engineering.
+My name is Xian Zhang. I am a master student at [Harbin Engineering University](http://www.hrbeu.edu.cn/) (HEU) with a major in Software Engineering.  I am fortunate to be supervised by Dr. [Yiran Shen](http://scholar.google.com/citations?user=793NrmoAAAAJ&hl=zh-CN), who taught me how to do research and write papers. I will finish my graduate study in June 2022. 
 
-My research interests include computer vision, natural language processing, deep learning, and event stream. Currently, I am focusing on combination of deep learning and event streams.
+Prior to HEU,  I received the B.Eng degree in Software Engineering from Nanchang University. During that period, I learned a lot of basic knowledge about computer science and cultivated my interest in it.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Xian_Zhang_resume.md" "newtab" >}}resumé{{< /staticref >}}.
+My research interests include Computer Vision, Natural Language Processing, Deep Learning, Intenet of Things, and event stream. Currently, I am focusing on event-based vision.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xian Zhang_HEU.md" "newtab" >}}resumé{{< /staticref >}}.
